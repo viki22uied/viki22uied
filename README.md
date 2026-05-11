@@ -122,15 +122,6 @@ Windows desktop productivity app integrating Logitech MX hardware for distractio
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viki22uied&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viki22uied&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Research
 
 **AI-Enhanced PGRKAM Employment Analytics Platform**
