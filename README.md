@@ -1,8 +1,8 @@
 <div align="center">
 
-# Vignesh Kumar U
+<img src="banner.svg" alt="Vignesh Kumar U — Quantitative Researcher, AI/ML Engineer" width="900"/>
 
-Quantitative Researcher · AI/ML Engineer
+<br/><br/>
 
 [LinkedIn](https://linkedin.com/in/vignesh-kumar-u-65442b256) · [Portfolio](https://vignesh-kumar-u.netlify.app) · [Email](mailto:vigneshkumaru06@gmail.com)
 
